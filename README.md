@@ -17,12 +17,12 @@ The catch? You can click on **"Yes"**, but clicking on **"No"** is almost imposs
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/yes-no-game.git
+   git clone https://github.com/alferdousrana/Yes_No_Game_With_Python.git
    cd yes-no-game
    ```
 2. Run the script:
    ```bash
-   python yes_no_game.py
+   python r-coding.py
    ```
 
 ## Code Overview
